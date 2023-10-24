@@ -140,7 +140,7 @@ class InformacionBody extends StatelessWidget {
                               child: Column(
                                 children: [
                                   Text(
-                                    "Texto completo del contenedor, Texto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedor Texto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedor",
+                                    "Texto completo del contenedor, Texto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedor Texto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedorTexto completo del contenedor",
                                     style: TextStyle(
                                         color:
                                             Color.fromARGB(255, 255, 255, 255),
