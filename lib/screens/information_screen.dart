@@ -22,7 +22,7 @@ class Information_ScreenState extends State<Information_Screen> {
         backgroundColor: Colors.green,
       ),
       // body: const Center(
-      //   child: Text("🦝deysiGarcía "),
+      //   child: Text("🦝deysi García "),
       // ),
       body: InformacionBody(),
     );
