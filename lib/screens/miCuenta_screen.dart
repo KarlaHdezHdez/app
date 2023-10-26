@@ -94,7 +94,7 @@ class bodyMiCuenta extends StatelessWidget {
                                 // borderRadius: BorderRadius.circular(26),
                                 child: Image.asset(
                                   'assets/images/deysi.png',
-                                  fit: BoxFit.fill,
+                                  height: 200,
                                 ),
                               ),
                             ),

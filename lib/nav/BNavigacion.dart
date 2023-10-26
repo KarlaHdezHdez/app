@@ -1,6 +1,7 @@
 // ignore: file_names
 import 'package:flutter/material.dart';
 
+
 class BNavigacion extends StatefulWidget {
   final Function currentIndex;
   const BNavigacion({Key? key, required this.currentIndex}) : super(key: key);
