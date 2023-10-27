@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:translate_this/screens/register.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -175,7 +176,10 @@ class _LoginPageState extends State<LoginPage> {
               Tab(icon: Image.asset("assets/images/login/github.png")),
             ],
           ),
-          TextButton(onPressed: () {}, child: _buildGreyText("¿No tienes una cuenta? Registrate"))
+          TextButton(onPressed: () {Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => Register_Screen()), // Reemplaza "RegisterPage" con el nombre correcto de tu clase de registro
+    );}, child: _buildGreyText("¿No tienes una cuenta? Registrate"))
           
         ],
         
